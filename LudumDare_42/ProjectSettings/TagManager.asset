@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MapGen
+  - Ground
+  - Goop
+  - PlayerAim
+  - OrbitProjectile
+  - HealthBar
+  - FuelBar
+  - Persitant
+  - Fire
+  - Music
   layers:
   - Default
   - TransparentFX
@@ -13,8 +23,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Wall
+  - Player
   - 
   - 
   - 

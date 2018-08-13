@@ -4,4 +4,46 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu/MainMenu.unity
+    guid: 2b4bede9c1cab1f45884e551215ca245
+  - enabled: 1
+    path: Assets/Levels/ClassicLevel/Level1Classic.unity
+    guid: 3c2cdf3236c89cb4d90c6d81ab35415f
+  - enabled: 1
+    path: Assets/Levels/ClassicLevel/Level2Classic.unity
+    guid: 2807e978105f61048b005963dd4c4ecf
+  - enabled: 1
+    path: Assets/Levels/ClassicLevel/Level3Classic.unity
+    guid: 811b66b2a5818b74d971b2c60c3dde2f
+  - enabled: 1
+    path: Assets/Levels/ClassicLevel/Level4Classic.unity
+    guid: b9007a09957466f479ea83e454d36ee8
+  - enabled: 1
+    path: Assets/Menu/LevelSelector.unity
+    guid: 1aac30de98fe7d44190daa1092995e0e
+  - enabled: 1
+    path: Assets/Levels/Fast/Level1Fast.unity
+    guid: 38c37f27e8cf9c449808031add4873a1
+  - enabled: 1
+    path: Assets/Menu/HowTo.unity
+    guid: 3e563ac31385c78438255ab784b3a573
+  - enabled: 1
+    path: Assets/Levels/ClassicLevel/Level5Classic.unity
+    guid: d9d201c5dfc574747ac8bc816a247985
+  - enabled: 1
+    path: Assets/Levels/Fast/Level2Fast.unity
+    guid: 384c4b37529de5a439f4596f71f96bf6
+  - enabled: 1
+    path: Assets/Levels/Fast/Level5Fast.unity
+    guid: 0e64b3f44c2a9024eb5f1d70c362be09
+  - enabled: 1
+    path: Assets/Levels/Fast/Level4Fast.unity
+    guid: 02504ec431a67d746b6eb2a89d5fd85f
+  - enabled: 1
+    path: Assets/Levels/Fast/Level3Fast.unity
+    guid: 99c9a39577698aa4b86528b3506ca8b4
+  - enabled: 1
+    path: Assets/Levels/ClassicLevel/Level6Classic.unity
+    guid: c96384809d9b506458b5031560d41c7e
